@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklearningprojectwebpack=self.webpackChunklearningprojectwebpack||[]).push([[543],{543:(e,n,c)=>{c.r(n),c.d(n,{default:()=>a});var r=c(893);const a=function(){return(0,r.jsx)("h1",{children:"О сайте"})}}}]);
