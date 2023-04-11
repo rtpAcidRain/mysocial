@@ -1,5 +1,5 @@
-import { Suspense } from 'react';
-import { classNames } from 'shared/lib/classNames';
+import { Suspense, useEffect } from 'react';
+import { classNames } from 'shared/lib/ClassNames/classNames';
 import { useTheme } from 'app/providers/ThemeProvider';
 
 import './styles/index.scss';
